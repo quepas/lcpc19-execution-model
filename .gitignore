@@ -1,0 +1,6 @@
+# Ignore IntelliJ project
+.idea/
+*.iml
+
+# Ignore maven output
+execution_model/target/
