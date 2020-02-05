@@ -13,7 +13,7 @@ The prediction is automatic and uses our Java 1.8 implementation of the model lo
 You can build the project yourself (using Maven) or use the prebuilt binary [execution_model-1.0.jar](execution_model/lib/execution_model-1.0.jar).
 Then, run the model using one of two ways:
 
-* `./predict_expr_cli.sh "A+B+cos(C(1:N)).*A(1:N)"` — predict the execution of a given MATLAB expression
+* `./predict_expr_cli.sh "sqrt(A1(1:N)) + abs(A2(1:N).*A3)"` — predict the execution of a given MATLAB expression
 * `./predict_examples.sh` — run prediction of examples from _Example predictions_ section below
 
 ### Visualisation of the execution model
