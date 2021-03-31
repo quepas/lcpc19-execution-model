@@ -4,6 +4,8 @@ Supplementary materials to the article presented at [32nd Workshop on Languages 
 
 [_"Using Performance Event Profiles to Deduce an Execution Model of MATLAB with Just-In-Time Compilation"_ by Patryk Kiepas, Corinne Ancourt, Claude Tadonki, and Jarosław Koźlak](paper/Kiepas_et_al_Using_Performance_Profiles_LCPC19.pdf).
 
+[https://dx.doi.org/10.1007/978-3-030-72789-5_6](https://dx.doi.org/10.1007/978-3-030-72789-5_6)
+
 Contact: _kiepas.patryk at gmail.com_
 
 ## Execution model
